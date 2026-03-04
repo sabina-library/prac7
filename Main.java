@@ -243,4 +243,5 @@ class ChatUser {
     void receive(String message) {
         System.out.println(name + " received -> " + message);
     }
+
 }
